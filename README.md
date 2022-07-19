@@ -5,15 +5,9 @@
 
 - 🌱 Atualmente estou aprendendo **TailWind CSS**
 
-- aaaaaaaaaaaaaaaaa [aaaaaaaaaaaaaaaa](aaaaaaaaaaaaaaaa)
-
-- aaaaaaaaaaaaaaaaa [aaaaaaaaaaaaaaaaa](aaaaaaaaaaaaaaaaa)
-
 - 💬 Pode me perguntar sobre **React, Express, MongoDB, NodeJS, WordPress,MySQL, Docker, Posman, HTML, CSS, JavaScript, NPM, Yarn e mais algumas coisas que eu esqueci ^^**
 
 - 📫 Como falar comigo **contato@eumanuel.dev**
-
-- aaaaaaaaaaaaaaaaa [aaaaaaaaaaaaaaaaa](aaaaaaaaaaaaaaaaa)
 
 - ⚡ Um fato legal sobre mim **O artista que eu mais ouvi nos últimos 4 anos foi a Tessa Violet**
 

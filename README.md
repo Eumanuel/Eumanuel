@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eumanuel&label=Profile%20views&color=0e75b6&style=flat" alt="eumanuel" /> </p>
 
-- 🌱 Atualmente estou aprendendo **TailWind CSS**
+- 🌱 Atualmente estou aprendendo **ASP.NET Core e Blazor**
 
 - 💬 Pode me perguntar sobre **React, Express, MongoDB, NodeJS, WordPress,MySQL, Docker, Posman, HTML, CSS, JavaScript, NPM, Yarn e mais algumas coisas que eu esqueci ^^**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
 <a href="https://dev.to/eumanuel.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eumanuel.dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emanuel-ribeiro-8705611b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emanuel-ribeiro-8705611b9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emanuel-ribeiro-8705611b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emanuel-ribeiro-8705611b9/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas que uso:</h3>
